@@ -1,0 +1,15 @@
+//Template Format::
+
+template <class template_name>
+class class_name
+{
+
+..............//class member
+..............//specifications with
+..............//anonymous type T
+..............//where or approproate
+
+};
+
+Object:
+class_name <Type> object_name;

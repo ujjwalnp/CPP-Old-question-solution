@@ -1,0 +1,18 @@
+//format foe class multiple class template, with multiple parametere
+
+/* practice quiestions:
+1. Make a class template what will show the addition and subbtraction of two float numbers.
+2. Make a class template what will show the multiplication and division of two integer numbers.
+3. Make a class template that wil display three things(integer, float and character)
+*/
+
+template<class T1, class T2,.....>
+class class_name
+{
+........
+.....//Body of class
+.....
+};
+
+Object:
+class_name<type 1,type 2>object name;
